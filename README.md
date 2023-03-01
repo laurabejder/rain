@@ -21,4 +21,7 @@ The historical data was collected by the Danish Meteorological Institute (DMI). 
 
 This repository only contains the files used for this project but the original data folder also has information on daily precipitation for other parts of Denmark as well as sunlight, temperature etc. 
 
-The documentation for the data and data collection is provided by DMI [here](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRep21-02.pdf).
+The documentation for the data and data collection is provided by DMI in the reports ['Denmark – DMI Historical
+Climate Data Collection 1768-
+2020'](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRep21-02.pdf) and ['Ekstreme nedbørhændelser i
+Danmark'](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRap21-06.pdf).
