@@ -12,7 +12,7 @@ The content of this notebook is presented in the article [Has It Always Been Thi
 ## Inside the data directory
 Inside this directory, you can find all the data used in the analysis.
 
-##Inside the visuals directory
+## Inside the visuals directory
 This directory contains the outputs of the ggplots created in data_visualization.ipynb and the versions edited in Adobe Illustrator.
 
 ### Data collection
