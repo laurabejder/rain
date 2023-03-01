@@ -1,6 +1,8 @@
-# rain
+# Denmark is getting rainier
 
 
+
+The content of this notebook is presented in the article [Has It Always Been This Rainy?](https://laurabejder.com/rain/)
 
 ### Data collection
 
