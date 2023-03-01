@@ -15,7 +15,9 @@ Inside this directory, you can find all the data used in the analysis.
 ## Inside the visuals directory
 This directory contains the outputs of the ggplots created in data_visualization.ipynb and the versions edited in Adobe Illustrator.
 
-## Data collection
+## Project Description
+### Aim of the project
+### Data collection
 
 The historical data was collected by the Danish Meteorological Institute (DMI). It can be downloaded as a zip file [here](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRep21-02.zip). 
 
@@ -25,3 +27,11 @@ The documentation for the data and data collection is provided by DMI in the rep
 Climate Data Collection 1768-
 2020](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRep21-02.pdf) and [Ekstreme nedbørhændelser i
 Danmark](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRap21-06.pdf).
+
+### Findings
+
+### Data analysis process
+After having collected information on all the recipes in the medical knitting category, I manually categorized all of the recipes. In some categories there were a lot of recipes while other categories only has one or a few recipes. 7 of the recipes did not have a medical purpose, so they were categorized as na. Knitted knockers are the second largest category after heating/cooling bags.
+
+### New skills
+For this project I used Adobe Illustrator and ai2html for the first time. Although the outcome is not perfect, I think it turned out ok considering it is a first attempt. I learned a lot about how to create a chart in ggplot, export it to a pdf, tweak in in Illustrator and embed it in html using ai2html including creating several versions of each chart and including the necessary JavaScript element in the html.
