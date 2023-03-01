@@ -15,7 +15,7 @@ Inside this directory, you can find all the data used in the analysis.
 ## Inside the visuals directory
 This directory contains the outputs of the ggplots created in data_visualization.ipynb and the versions edited in Adobe Illustrator.
 
-### Data collection
+## Data collection
 
 The historical data was collected by the Danish Meteorological Institute (DMI). It can be downloaded as a zip file [here](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRep21-02.zip). 
 
