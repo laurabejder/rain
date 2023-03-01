@@ -6,8 +6,8 @@ The content of this notebook is presented in the article [Has It Always Been Thi
 
 ## In this repository
 ### Notebooks
-`analysis.ipynb`: This notebook analyses the DMI data. The notebook provides code for the cleaning, aggragation and grouping of the data.
-`data_visualization.ipynb`: This notebook uses the R package ggplot to create the basic visualization of the data. The visualizations were later imported to Adobe Illustrator and then converted into responsive html using ai2html.
+-`analysis.ipynb`: This notebook analyses the DMI data. The notebook provides code for the cleaning, aggragation and grouping of the data.
+-`data_visualization.ipynb`: This notebook uses the R package ggplot to create the basic visualization of the data. The visualizations were later imported to Adobe Illustrator and then converted into responsive html using ai2html.
 
 ## Inside the data directory
 Inside this directory, you can find all the data used in the analysis.
