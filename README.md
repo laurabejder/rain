@@ -31,7 +31,9 @@ Danmark](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRap21-06.pdf).
 ### Findings
 
 ### Data analysis process
-After having collected information on all the recipes in the medical knitting category, I manually categorized all of the recipes. In some categories there were a lot of recipes while other categories only has one or a few recipes. 7 of the recipes did not have a medical purpose, so they were categorized as na. Knitted knockers are the second largest category after heating/cooling bags.
+I did a lot of different groupings of the data to get a better sense of how the precification rates have changed in Denmark. For the historical comparisons I ended up applying DMI's 30-year groupings instead of decades (too short) or centuries (too long). 
 
 ### New skills
-For this project I used Adobe Illustrator and ai2html for the first time. Although the outcome is not perfect, I think it turned out ok considering it is a first attempt. I learned a lot about how to create a chart in ggplot, export it to a pdf, tweak in in Illustrator and embed it in html using ai2html including creating several versions of each chart and including the necessary JavaScript element in the html.
+For this project I used Adobe Illustrator and ai2html for the second time. I have expanded my experience with editing ggplot outputs in Illustrator but this time I also practiced using other fonts than the ones initially supported by ai2html (Georgia and Arial).
+
+I also practiced by ggplot skills including using polar x-axes, making trend lines, and tweeking the graph to get as close to the result as possible before exporting it to illustrator. 
