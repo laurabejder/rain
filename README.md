@@ -1,6 +1,6 @@
 # Denmark is getting rainier
 
-In this repository I examine the development in precipitation in Denmark. During the past decade, precipitation has increased by almost 20 percent. I look into the yearly rainfall, how rainy each month has been on average and compare different historical periods spanning from the late 19th century to 2020. 
+In this repository I examine and visualize the development in precipitation in Denmark. During the past decade, precipitation has increased by almost 20 percent. I look into the yearly rainfall, how rainy each month has been on average and compare different historical periods spanning from the late 19th century to 2020. 
 
 The content of this notebook is presented in the article [Has It Always Been This Rainy?](https://laurabejder.com/rain/)
 
@@ -16,7 +16,6 @@ Inside this directory, you can find all the data used in the analysis.
 This directory contains the outputs of the ggplots created in data_visualization.ipynb and the versions edited in Adobe Illustrator.
 
 ## Project Description
-### Aim of the project
 ### Data collection
 
 The historical data was collected by the Danish Meteorological Institute (DMI). It can be downloaded as a zip file [here](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRep21-02.zip). 
@@ -27,8 +26,6 @@ The documentation for the data and data collection is provided by DMI in the rep
 Climate Data Collection 1768-
 2020](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRep21-02.pdf) and [Ekstreme nedbørhændelser i
 Danmark](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRap21-06.pdf).
-
-### Findings
 
 ### Data analysis process
 I did a lot of different groupings of the data to get a better sense of how the precification rates have changed in Denmark. For the historical comparisons I ended up applying DMI's 30-year groupings instead of decades (too short) or centuries (too long). 
